@@ -1,4 +1,4 @@
-# Finetunning from Nueral Maze
+# Finetunning from Neural Maze
 
-## week 0
-- simple hugging face job and inference endpoint lab setup 
+## Overview
+- Small project with examples in `week_0/` demonstrating model inference and a simple runner.
